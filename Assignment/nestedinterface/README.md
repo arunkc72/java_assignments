@@ -2,8 +2,7 @@
 
 Nested interface must be declared as public inside another interface. The nested interface can be declared in the following general form.  Since nested interface cannot be accessed directly,    the main purpose of using them is to resolve the namespace by grouping related interfaces      related interface and class) together.  This way, we can only call the nested interface by     using outer class or outer interface name followed by dot( . ), followed by the interface    name.
           
-    The following are the rules governing a nested interface.
-
+   The following are the rules governing a nested interface.
       A nested interface declared within an interface must be public.
       A nested interface declared within a class can have any access modifier.
       A nested interface is by default static 
