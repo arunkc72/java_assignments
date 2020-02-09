@@ -15,9 +15,9 @@ Anonymous array is created and initialized in the same line.
 
                    // anonymous multidimensional array
                      new int[][] { {10, 20}, {30, 40, 50} };
-                    
-      Code
-class AnonymousArray
+  Code
+      
+  class AnonymousArray
 {
  static void print(int a[])
  {
